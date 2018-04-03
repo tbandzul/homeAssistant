@@ -1,0 +1,24 @@
+[{"address": "17ffbb", "cat": 1, "subcat": 0, "product_key": 0},
+ {"address": "16a2a4", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "12351b", "cat": 2, "subcat": 11, "product_key": 0},
+ {"address": "16a152", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "169f96", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "11db89", "cat": 2, "subcat": 14, "product_key": 0},
+ {"address": "1a2db7", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "15c5fe", "cat": 2, "subcat": 15, "product_key": 0},
+ {"address": "15b17c", "cat": 1, "subcat": 30, "product_key": 0},
+ {"address": "15c716", "cat": 2, "subcat": 15, "product_key": 0},
+ {"address": "164292", "cat": 1, "subcat": 30, "product_key": 0},
+ {"address": "13e3ed", "cat": 16, "subcat": 2, "product_key": 0},  - this is an Open / close door sensor
+ {"address": "13e310", "cat": 16, "subcat": 2, "product_key": 0},  - Open / Close door sensor
+ {"address": "1432ae", "cat": 16, "subcat": 1, "product_key": 0},  - Motion detector
+ {"address": "2df922", "cat": 16, "subcat": 8, "product_key": 0},  - Leak detector
+ {"address": "169e85", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "16a244", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "155381", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "434d49", "cat": 2, "subcat": 42, "product_key": 0},
+ {"address": "179e25", "cat": 2, "subcat": 8, "product_key": 35},
+ {"address": "179b62", "cat": 2, "subcat": 8, "product_key": 35},
+ {"address": "155405", "cat": 2, "subcat": 22, "product_key": 0},
+ {"address": "17fc50", "cat": 1, "subcat": 32, "product_key": 0},
+ {"address": "155220", "cat": 2, "subcat": 22, "product_key": 0}]
